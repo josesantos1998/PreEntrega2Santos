@@ -1,0 +1,50 @@
+/* HEADER */
+
+
+.logo{
+    width: 10rem;
+}
+
+.fuentes{
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    text-transform: uppercase;
+}
+
+.fuentes li:hover {
+background-color: rgb(161, 16, 16);
+
+}
+header{
+    border-bottom: 1px solid black ;
+}
+
+
+/* HERO */
+
+.colorBtn{
+    background-color: rgb(161, 16, 16);
+    color:#fff;
+}
+
+.colorBtn:hover {
+background-color: red;
+}
+
+.imgFondo {
+    background-image:url( "../img/35xeONjtm_1290x760__2.webp");
+}
+
+/* RAQUETAS */
+.tituloRaquetas{
+background-color: rgb(161, 16, 16);
+color: #fff;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+padding: 1rem;
+}
+
+.tituloRaquetas h2 {
+    font-size: 3rem;
+}
